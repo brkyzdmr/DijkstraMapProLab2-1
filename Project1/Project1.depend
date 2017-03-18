@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489734810 source:c:\users\berka\desktop\project1\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
